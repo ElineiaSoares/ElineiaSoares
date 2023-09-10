@@ -80,6 +80,7 @@ body{
     border-radius: 25px;
 }
 .text{
+    text-align: center;
     justify-content: center;
     display: flex;
     align-items: center;
