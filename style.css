@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2? family= Dancing+Script:wght@400;500;600;700 & family= Dawning+of+a+New+Day & family= Metal & display=troca');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    background: linear-gradient(#fde741, #eee491);
+    background-repeat: no-repeat;
+}
+
+.imagem{
+    padding: 3rem;
+    display: flex;
+    justify-content: center;
+}
+
+.imagem img{
+    border-radius: 200px;
+    margin-top: 30px;
+}
+.nome{
+    margin-top: 1em;
+    font-size: 3em;
+    font-weight: 6em;
+    display: flex;
+    justify-content: center;
+    color: #d5288a;
+    font-family: 'Dancing Script', cursive;
+}
+
+.redes-sociais{
+    display: flex;
+    justify-content: center;
+    margin-top: px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.icon{
+    display: inline-block;
+    width: 3em;
+    height: 35px;
+    border-radius: 30px;
+    margin: .5em;
+    overflow: hidden;
+    transition: all 0.3s ease-out;
+    cursor: pointer;
+}
+
+.icon i{
+    display: inline-block;
+    width: 35px;
+    height: 5em;
+    line-height: 35px;
+    text-align: center;
+    font-size: 2em;
+    border-radius: 30em;
+    cursor: pointer;
+    background-color: rgb(247, 213, 79);
+    color: rgba(212, 89, 163);
+}
+
+.icon span a{
+    list-style: none;
+    float: right;
+    margin-right: 23px;
+    font-weight: 100px;
+    font-size: 17px;
+    line-height: 35px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.icon:hover{
+    width: 125px;
+    background-color: rgb(249, 217, 114);
+    border-radius: 25px;
+}
+.text{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 6rem 5rem;
+    border-radius: 24px;
+    font-size: 1.5em;
+    margin-top: 35px;
+    width: 500px;
+    height: 150px;
+    background-color: rgb(249, 217, 114);
+    color: rgb(212, 89, 163);
+    box-shadow: 0 3px 3px rgba(18, 18, 18, 0.1);
+    font-family: 'Dancing Script', cursive;
+}
+
+h1{
+    display: flex;
+    font-size: 3em;
+    justify-content: center;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+    font-weight: 60em;
+    color: #d5288a;
+    font-family: 'Dancing Script', cursive;
+}
+
+.projetos{
+    margin-top: 2em;
+    flex-direction: column;
+    margin: auto;
+    font-family: 'Dancing Script', cursive;
+}
+
+.trabalhos{
+    text-decoration: none;
+    color: #d5288a;
+}
+
+.item{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5em;
+    width: 570px;
+    height: 60px;
+    margin-bottom: 1em;
+    border-radius: 50px;
+    border: 1px solid rgb(224, 232, 179);
+    color: rgb(212, 89, 163);
+    background: rgb(249, 217, 114);
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .1);
+    cursor: pointer;
+    font-family: 'Dancing Script', cursive;
+}
+
+.item:hover{
+    transition: 0.2s;
+    background-color: #f1c928;
+}
+
+.footer{
+    font-size: 37px;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    margin-top: 50px;
+    color: #d5288a;
+    font-family: 'Dancing Script', cursive;
+}
