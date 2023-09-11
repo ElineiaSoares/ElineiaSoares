@@ -79,8 +79,8 @@ body{
     background-color: rgb(249, 217, 114);
     border-radius: 25px;
 }
+
 .text{
-    text-align: center;
     justify-content: center;
     display: flex;
     align-items: center;
@@ -143,8 +143,9 @@ h1{
 }
 
 .footer{
-    font-size: 37px;
+    font-size: 1.5rem;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     padding: 50px;
     margin-top: 50px;
