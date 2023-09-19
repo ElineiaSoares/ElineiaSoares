@@ -163,31 +163,14 @@ footer{
 }
 
 @media screen and (min-width: 300px) {
-
     body {
         background: linear-gradient(#fde741, #eee491);
     }
+}
 
-    .imagem{
-        margin-left: 8em;
+@media screen and (min-height: 500px) {
+    body{
+        background: linear-gradient(#fde741, #eee491);
     }
-
-    .nome{
-        font-size: 1em;
-        margin-left: 5em;
-    }
-
-    .redes-sociais{
-        margin-left: 5em;
-    }
-
-    .text{
-        margin-left: 1em;
-    }
-
-    h1{
-        font-size: 1em;
-        margin-left: 5em;
-    }
-
+    
 }
