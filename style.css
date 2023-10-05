@@ -86,9 +86,9 @@ body{
     align-items: center;
     padding: 8rem 2rem;
     border-radius: 30em;
-    font-size: 18px;
+    font-size: 2em;
     margin-top: 3em;
-    margin-left: 29em;
+    margin-left: 40em;
     width: 500px;
     height: 150px;
     background-color: rgb(248, 213, 98);
@@ -149,7 +149,7 @@ footer{
 }
 
 .footer{
-    font-size: 1rem;
+    font-size: 2em;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -157,7 +157,7 @@ footer{
     padding-top: 1em;
     padding-bottom: 2em;
     margin-top: 50px;
-    margin-left: 35em;
+    margin-left: 40em;
     color: #d5288a;
     font-family: 'Dancing Script', cursive;
 }
