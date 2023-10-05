@@ -5,10 +5,10 @@ Me chamo Elinéia S. Soares
 
 Here are some ideas to get you started:-->
 
-<!--- 🔭 Sou formada em técnica em nutrição.
+- 🔭 Sou formada em técnica em nutrição.
 - 🌱 Estou estudando Desenvolvimento Web.
 - 📫 How to reach me: elineiasoares4@gmail.com
-- 😄 Pronouns: Ela.-->
+- 😄 Pronouns: Ela.
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
